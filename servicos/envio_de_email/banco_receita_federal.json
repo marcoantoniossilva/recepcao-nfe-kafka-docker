@@ -1,0 +1,39 @@
+{
+    "inscritos": [
+        {
+            "cnpj": 13645785000145,
+            "razao_social": "Hilda Confecções LTDA",
+            "ativo": true,
+            "email": "vendas@hildaconfeccoes.com.br"
+        },
+        {
+            "cnpj": 69852452000147,
+            "razao_social": "MS Moda Íntima LTDA",
+            "ativo": false,
+            "email": "msmodaintima2011@gmail.com"
+        },
+        {
+            "cnpj": 45698253000140,
+            "razao_social": "Gus - roupas e Acessórios LTDA",
+            "ativo": true,
+            "email": "gustavo_gus@gmail.com"
+        }
+    ],
+    "pessoas_fisicas": [
+        {
+            "cpf": 12354785415,
+            "nome": "José da Silva",
+            "email": "josesilva@gmail.com"
+        },
+        {
+            "cpf": 45874589658,
+            "nome": "Maria Alves",
+            "email": "mariaalves2021@gmail.com"
+        },
+        {
+            "cpf": 12345678901,
+            "nome": "Marco Antonio Santos Silva",
+            "email": "marcoantoniosilva.tec@gmail.com"
+        }
+    ]
+}
