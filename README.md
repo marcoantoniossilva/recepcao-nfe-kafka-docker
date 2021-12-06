@@ -10,6 +10,12 @@ Fluxo de execução:
 4 - Serviço de envio de e-mails envia um e-mail para o destinatário informando da emissão de uma NFE em seu nome.<br>
 <br/>
 
+## Vídeo explicativo
+
+Para acessar o vídeo explicativo da ferramenta no Youtube, [clique aqui](https://youtu.be/9WCN0O71KHQ).
+
+<br/>
+
 ## Requisitos
 
 - [Docker](https://docs.docker.com/)
